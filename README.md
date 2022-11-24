@@ -29,8 +29,8 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Installation](#installation)
-   * [Usage](#usage)
+   * [Installation1](#installation)
+   * [Usage1](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
@@ -68,7 +68,7 @@ $ basher install ekalinin/github-markdown-toc
 # `gh-md-toc` will automatically be available in the PATH
 ```
 
-Usage
+Usage2
 =====
 
 
